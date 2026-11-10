@@ -1,0 +1,19 @@
+packages/views/issues/components/comment-card.tsx
+  s_d3d9e8184701b4::t_280cc90eb0ff45 1374-1390
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "a620c5f1a8607bf6737f51be1dfc5ed767c342c7",
+  "prompts": {},
+  "sessions": {
+    "s_d3d9e8184701b4": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1c50e-fd63-7973-9c16-85d5aa9ffc39",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "dragove <dragove@qq.com>"
+    }
+  }
+}
